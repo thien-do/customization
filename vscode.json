@@ -1,0 +1,49 @@
+{
+  "workbench.colorTheme": "Rosé Pine Moon",
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Source Code Variable",
+  "editor.lineHeight": 28,
+  "editor.lineNumbers": "relative",
+  "editor.rulers": [80, 120],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "breadcrumbs.enabled": false,
+  "terminal.integrated.tabs.location": "left",
+  "terminal.integrated.tabs.enabled": false,
+  "typescript.suggest.includeCompletionsWithSnippetText": false,
+  "editor.suggest.showSnippets": false,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.4,
+  "terminal.integrated.fontWeightBold": "normal",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.sideBar.location": "right",
+  "zenMode.hideLineNumbers": false,
+  "workbench.editor.showTabs": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.enabled": false,
+  "window.restoreWindows": "none",
+  "workbench.preferredDarkColorTheme": "Rosé Pine Moon",
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredLightColorTheme": "Rosé Pine Dawn",
+  "[markdown]": {
+    "editor.wordWrap": "bounded",
+    "editor.quickSuggestions": false
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.accessibilitySupport": "off"
+}
